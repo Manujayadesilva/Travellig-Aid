@@ -1,0 +1,11 @@
+                                                                   A/C BUS TIMETABLE
+
+                                                       DESTINATION              TIME       T-PRICE
+
+                                                      1.Colombo                4.30 pm      Rs.1400    
+                                                      2.Mathara                3.30 pm      Rs.1000
+                                                      3.Ambalangoda            7.30 am      RS.500
+                                                      4.Aluthgama              4.00 pm      Rs.700
+                                                      5.Hambanthota            6.30 am      Rs.1000
+
+                                             IF A PERSON IS UNDER 12 AGE, THE PRICE OF THE TICKET WILL BE HALF.

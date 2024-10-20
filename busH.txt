@@ -1,0 +1,11 @@
+                                                         HIGHWAY BUS TIMETABLE (weekends)
+
+                                                      DESTINATION              TIME       T-PRICE
+
+                                                    1.Colombo                7.30 pm      Rs.1200    
+                                                    2.Mathara                3.30 pm      Rs.500
+                                                    3.Ambalangoda            7.00 am      Rs.300
+                                                    4.Aluthgama              8.00 am      Rs.600
+                                                    5.Hambanthota            6.00 am      Rs.1000
+
+                                           IF A PERSON IS UNDER 12 AGE, THE PRICE OF THE TICKET WILL BE HALF.

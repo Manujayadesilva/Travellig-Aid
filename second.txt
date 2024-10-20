@@ -1,0 +1,11 @@
+                                                      TRAIN TIMETABLE(weekends)- SECOND CLASS
+
+                                                    DESTINATION              TIME       T-PRICE
+
+                                                   1.Colombo                2.30 pm      Rs.350    
+                                                   2.Mathara                3.30 pm      Rs.300
+                                                   3.Ambalangoda            2.00 pm      Rs.180
+                                                   4.Aluthgama             10.00 am      Rs.350
+                                                   5.Hambanthota            6.30 am      Rs.300
+
+                                          IF A PERSON IS UNDER 12 AGE, THE PRICE OF THE TICKET WILL BE HALF.

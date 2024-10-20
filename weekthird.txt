@@ -1,0 +1,11 @@
+                                                          TRAIN TIMETABLE- THIRD CLASS
+
+                                                   DESTINATION              TIME       T-PRICE
+
+                                                  1.Colombo                4.30 pm      Rs.250    
+                                                  2.Mathara                3.30 pm      Rs.100
+                                                  3.Ambalangoda            2.00 pm      Rs.080
+                                                  4.Aluthgama              8.00 am      Rs.150
+                                                  5.Hambanthota            6.30 am      Rs.200
+
+                                       IF A PERSON IS UNDER 12 AGE, THE PRICE OF THE TICKET WILL BE HALF.

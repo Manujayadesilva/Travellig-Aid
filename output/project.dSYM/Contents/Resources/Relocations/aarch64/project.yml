@@ -1,0 +1,42 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/heshanmanujaya/Library/CloudStorage/OneDrive-NationalInstituteofBusinessManagement/first year/CW/PF/PF project/output/project'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _calculating, symObjAddr: 0x0, symBinAddr: 0x100000B3C, symSize: 0x9B8 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _total, symObjAddr: 0x66E0, symBinAddr: 0x1000083F0, symSize: 0x0 }
+  - { offsetInCU: 0x5B, offset: 0x5B, size: 0x8, addend: 0x0, symName: _Utotal, symObjAddr: 0x66E4, symBinAddr: 0x1000083F4, symSize: 0x0 }
+  - { offsetInCU: 0x70, offset: 0x70, size: 0x8, addend: 0x0, symName: _tot, symObjAddr: 0x66E8, symBinAddr: 0x1000083F8, symSize: 0x0 }
+  - { offsetInCU: 0x85, offset: 0x85, size: 0x8, addend: 0x0, symName: _trainFirstClassSeats, symObjAddr: 0x285C, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0xAD, offset: 0xAD, size: 0x8, addend: 0x0, symName: _trainSecondClassSeats, symObjAddr: 0x28B0, symBinAddr: 0x100008054, symSize: 0x0 }
+  - { offsetInCU: 0xC2, offset: 0xC2, size: 0x8, addend: 0x0, symName: _trainThirdClassSeats, symObjAddr: 0x2904, symBinAddr: 0x1000080A8, symSize: 0x0 }
+  - { offsetInCU: 0xD7, offset: 0xD7, size: 0x8, addend: 0x0, symName: _trainFirstClassSeatsWE, symObjAddr: 0x2958, symBinAddr: 0x1000080FC, symSize: 0x0 }
+  - { offsetInCU: 0xEC, offset: 0xEC, size: 0x8, addend: 0x0, symName: _trainSecondClassSeatsWE, symObjAddr: 0x29AC, symBinAddr: 0x100008150, symSize: 0x0 }
+  - { offsetInCU: 0x101, offset: 0x101, size: 0x8, addend: 0x0, symName: _trainThirdClassSeatsWE, symObjAddr: 0x2A00, symBinAddr: 0x1000081A4, symSize: 0x0 }
+  - { offsetInCU: 0x116, offset: 0x116, size: 0x8, addend: 0x0, symName: _busNormalSeats, symObjAddr: 0x2A54, symBinAddr: 0x1000081F8, symSize: 0x0 }
+  - { offsetInCU: 0x12B, offset: 0x12B, size: 0x8, addend: 0x0, symName: _busACSeats, symObjAddr: 0x2AA8, symBinAddr: 0x10000824C, symSize: 0x0 }
+  - { offsetInCU: 0x140, offset: 0x140, size: 0x8, addend: 0x0, symName: _busHighwaySeats, symObjAddr: 0x2AFC, symBinAddr: 0x1000082A0, symSize: 0x0 }
+  - { offsetInCU: 0x155, offset: 0x155, size: 0x8, addend: 0x0, symName: _busNormalSeatsWE, symObjAddr: 0x2B50, symBinAddr: 0x1000082F4, symSize: 0x0 }
+  - { offsetInCU: 0x16A, offset: 0x16A, size: 0x8, addend: 0x0, symName: _busACSeatsWE, symObjAddr: 0x2BA4, symBinAddr: 0x100008348, symSize: 0x0 }
+  - { offsetInCU: 0x17F, offset: 0x17F, size: 0x8, addend: 0x0, symName: _busHighwaySeatsWE, symObjAddr: 0x2BF8, symBinAddr: 0x10000839C, symSize: 0x0 }
+  - { offsetInCU: 0x19B, offset: 0x19B, size: 0x8, addend: 0x0, symName: _i, symBinAddr: 0x100008420, symSize: 0x0 }
+  - { offsetInCU: 0x1B0, offset: 0x1B0, size: 0x8, addend: 0x0, symName: _day, symBinAddr: 0x100008410, symSize: 0x0 }
+  - { offsetInCU: 0x1C5, offset: 0x1C5, size: 0x8, addend: 0x0, symName: _busdoc, symBinAddr: 0x100008408, symSize: 0x0 }
+  - { offsetInCU: 0x1DA, offset: 0x1DA, size: 0x8, addend: 0x0, symName: _left, symBinAddr: 0x100008424, symSize: 0x0 }
+  - { offsetInCU: 0x1EF, offset: 0x1EF, size: 0x8, addend: 0x0, symName: _seat, symBinAddr: 0x10000842C, symSize: 0x0 }
+  - { offsetInCU: 0x204, offset: 0x204, size: 0x8, addend: 0x0, symName: _book, symBinAddr: 0x100008404, symSize: 0x0 }
+  - { offsetInCU: 0x219, offset: 0x219, size: 0x8, addend: 0x0, symName: _CAL, symBinAddr: 0x1000083FC, symSize: 0x0 }
+  - { offsetInCU: 0x22E, offset: 0x22E, size: 0x8, addend: 0x0, symName: _dest, symBinAddr: 0x100008414, symSize: 0x0 }
+  - { offsetInCU: 0x243, offset: 0x243, size: 0x8, addend: 0x0, symName: _ticket, symBinAddr: 0x100008430, symSize: 0x0 }
+  - { offsetInCU: 0x258, offset: 0x258, size: 0x8, addend: 0x0, symName: _Uticket, symBinAddr: 0x100008400, symSize: 0x0 }
+  - { offsetInCU: 0x26D, offset: 0x26D, size: 0x8, addend: 0x0, symName: _mod, symBinAddr: 0x100008428, symSize: 0x0 }
+  - { offsetInCU: 0x282, offset: 0x282, size: 0x8, addend: 0x0, symName: _busmode, symBinAddr: 0x10000840C, symSize: 0x0 }
+  - { offsetInCU: 0x297, offset: 0x297, size: 0x8, addend: 0x0, symName: _trainmode, symBinAddr: 0x100008434, symSize: 0x0 }
+  - { offsetInCU: 0x2AC, offset: 0x2AC, size: 0x8, addend: 0x0, symName: _destination, symBinAddr: 0x100008418, symSize: 0x0 }
+  - { offsetInCU: 0x2BB, offset: 0x2BB, size: 0x8, addend: 0x0, symName: _calculating, symObjAddr: 0x0, symBinAddr: 0x100000B3C, symSize: 0x9B8 }
+  - { offsetInCU: 0x2D0, offset: 0x2D0, size: 0x8, addend: 0x0, symName: _weekbooking, symObjAddr: 0xA30, symBinAddr: 0x10000156C, symSize: 0x894 }
+  - { offsetInCU: 0x380, offset: 0x380, size: 0x8, addend: 0x0, symName: _weekendsbooking, symObjAddr: 0x12C4, symBinAddr: 0x100001E00, symSize: 0x894 }
+  - { offsetInCU: 0x431, offset: 0x431, size: 0x8, addend: 0x0, symName: _trainMode, symObjAddr: 0x1B58, symBinAddr: 0x100002694, symSize: 0x5A8 }
+  - { offsetInCU: 0x559, offset: 0x559, size: 0x8, addend: 0x0, symName: _busMode, symObjAddr: 0x2100, symBinAddr: 0x100002C3C, symSize: 0x59C }
+  - { offsetInCU: 0x681, offset: 0x681, size: 0x8, addend: 0x0, symName: _read, symObjAddr: 0x269C, symBinAddr: 0x1000031D8, symSize: 0xB0 }
+  - { offsetInCU: 0x697, offset: 0x697, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x274C, symBinAddr: 0x100003288, symSize: 0x110 }
+...

@@ -1,0 +1,11 @@
+                                                           NORMAL BUS TIMETABLE (weekends)
+
+                                                    DESTINATION              TIME       T-PRICE
+
+                                                   1.Colombo                4.00 pm      Rs.700    
+                                                   2.Mathara                3.30 pm      Rs.500
+                                                   3.Ambalangoda            2.00 pm      Rs.250
+                                                   4.Aluthgama              8.30 am      Rs.500
+                                                   5.Hambanthota            9.30 am      Rs.800
+
+                                         IF A PERSON IS UNDER 12 AGE, THE PRICE OF THE TICKET WILL BE HALF.
